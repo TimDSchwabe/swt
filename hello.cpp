@@ -5,12 +5,12 @@ using namespace std;
 int main()
 {
     //Begrüßung
-    cout<<"Hello Bananas";
+    cout<<"Hallo Welt";
     
     //Message
-    cout<<"\nLamas sind geil.";
+    cout<<"\nKannst du mich hören?";
     
     //Verabschiedung
-    cout<<"\nGood bye Bananas";
+    cout<<"\nAuf Wiedersehen";
     return 0;
 }
