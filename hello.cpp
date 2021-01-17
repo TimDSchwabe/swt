@@ -11,6 +11,6 @@ int main()
     cout<<"\nKannst du mich höradsdsdaen?";
     
     //Verabschiedung
-    cout<<"\nAuf Wiedersehen";
+    cout<<"\nAuf Wieasdaddersehen";
     return 0;
 }
